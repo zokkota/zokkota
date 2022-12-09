@@ -3,7 +3,7 @@
 ![](https://img.shields.io/badge/OS-%28WSL%29%20Debian%2010-informational?style=flat&logo=debian&logoColor=white&color=A81D33)
 ![](https://img.shields.io/badge/Editor-Visual%20Studio%20Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=007ACC)
 ![](https://img.shields.io/badge/Browser-Firefox-informational?style=flat&logo=firefox-browser&logoColor=white&color=FF7139)
-![](https://img.shields.io/badge/Discord-zokkota%838323-informational?style=flat&logo=discord&logoColor=white&color=7289DA)
+![](https://img.shields.io/badge/Discord-zokkota%#838323-informational?style=flat&logo=discord&logoColor=white&color=7289DA)
 
 ![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=F7DF1E)
 ![](https://img.shields.io/badge/TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=3178C6)
